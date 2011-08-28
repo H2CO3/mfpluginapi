@@ -1,0 +1,14 @@
+<plist>
+  <dict>
+    <key>CFBundleIdentifier</key>
+    <string>org.h2co3.mfpluginsample</string>
+    <key>CFBundleName</key>
+    <string>Hello World</string>
+    <key>CFBundlePackageType</key>
+    <string>BNDL</string>
+    <key>CFBundleVersion</key>
+    <string>1.0</string>
+    <key>CFBundleExecutable</key>
+    <string>HelloWorld</string>
+  </dict>
+</plist>
